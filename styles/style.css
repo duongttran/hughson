@@ -150,6 +150,18 @@ button {
   margin: 20px;
 }
 
+.blog-section {
+  margin-left: 30px;
+}
+
+.blog-line {
+  margin-top: 30px;
+}
+
+.blog-description {
+  max-width: 380px;
+}
+
 footer {
   height: 280px;
   background-color: #334ccb;
