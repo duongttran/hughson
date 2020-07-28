@@ -54,7 +54,7 @@ button {
   width: 590px;
   height: 390px;
 
-  background-color: lightcoral;
+  /* background-color: lightcoral; */
   object-fit: contain;
   margin: 30px;
 }
@@ -67,8 +67,9 @@ button {
   margin: 0px 20px 20px 30px;
 }
 
-.project-section {
-  margin-left: 30px;
+.project-section h2 {
+  color: #0b217b;
+  margin: 30px;
 }
 
 .about-section {
@@ -152,6 +153,11 @@ button {
 
 .blog-section {
   margin-left: 30px;
+}
+
+.blog-section h3 {
+  color: #0b217b;
+  margin-left: 15px;
 }
 
 .blog-line {
